@@ -1,9 +1,9 @@
 # last updated: 2026-06-03
 
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,crs.cr.adobe.com
+DOMAIN-SUFFIX,ipm.corel.com
+DOMAIN-SUFFIX,mc.corel.com
 PROCESS-NAME,CorelDRW.exe
 PROCESS-NAME,Illustrator.exe
 PROCESS-NAME,Photoshop.exe
-DOMAIN-SUFFIX,adobe.io
-DOMAIN-SUFFIX,crs.cr.adobe.com
-DOMAIN-SUFFIX,mc.corel.com
-DOMAIN-SUFFIX,ipm.corel.com
