@@ -1,0 +1,8 @@
+# last updated: 2026-06-03
+
+DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozilla.org
+DOMAIN,totheglory.im
+DOMAIN,hdchina.org
+DOMAIN,open.cd
+DOMAIN-SUFFIX,cmct.xyz

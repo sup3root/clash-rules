@@ -1,4 +1,4 @@
-me: Sync ruleset.skk.moe rules
+name: Sync ruleset.skk.moe rules
 
 on:
   schedule:

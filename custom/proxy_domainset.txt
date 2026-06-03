@@ -1,0 +1,8 @@
+# last updated: 2026-06-03
+
+DOMAIN,api.github.com
+DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,izzyondroid.org
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,sehuatang.net
