@@ -2,8 +2,6 @@ name: Sync ruleset.skk.moe rules
 
 on:
   schedule:
-    # 每天 UTC 20:00 运行
-    # 北京时间是第二天 04:00
     - cron: "0 20 * * *"
 
   workflow_dispatch:
@@ -24,12 +22,17 @@ jobs:
           chmod +x scripts/update-rules.sh
           OUT_DIR=. ./scripts/update-rules.sh
 
+      - name: Sort custom rules
+        run: |
+          chmod +x scripts/sort-custom.sh
+          ./scripts/sort-custom.sh custom
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add Clash
+          git add Clash custom
 
           if git diff --cached --quiet; then
             echo "No changes."
@@ -38,4 +41,3 @@ jobs:
 
           git commit -m "chore: sync rules"
           git push
-
