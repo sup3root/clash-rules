@@ -6,3 +6,5 @@
 +.onedrive.com
 +.onedrive.live.com
 +.sehuatang.net
++.onedrive.com
++.onedrive.live.com

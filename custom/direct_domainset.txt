@@ -1,8 +1,9 @@
 # last updated: 2026-06-03
 
-totheglory.im
-hdchina.org
-open.cd
++.totheglory.im
++.hdchina.org
++.open.cd
 +.mozilla.net
 +.mozilla.org
 +.cmct.xyz
++.springsunday.net
