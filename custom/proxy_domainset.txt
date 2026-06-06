@@ -1,4 +1,4 @@
-# last updated: 2026-06-03
+# last updated: 2026-06-06
 
 +.api.github.com
 +.bitwarden.com
@@ -6,3 +6,4 @@
 +.onedrive.com
 +.onedrive.live.com
 +.sehuatang.net
++.sup3r.me

@@ -1,4 +1,4 @@
-# last updated: 2026-06-04
+# last updated: 2026-06-06
 
 +.assets.mozilla.net
 +.cmct.xyz
@@ -6,3 +6,4 @@
 +.open.cd
 +.springsunday.net
 +.totheglory.im
+appsec-mobile.meituan.com
