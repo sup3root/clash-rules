@@ -7,3 +7,4 @@
 +.onedrive.live.com
 +.sehuatang.net
 +.sup3r.me
+release-assets.githubusercontent.com
