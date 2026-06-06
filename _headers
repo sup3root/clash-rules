@@ -1,0 +1,23 @@
+/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600
+
+/Clash/domainset/*
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/Clash/ip/*
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/Clash/non_ip/*
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/custom/*
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/*.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
