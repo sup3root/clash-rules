@@ -1,6 +1,7 @@
 # last updated: 2026-06-06
 
 PROCESS-NAME,cn.amazon.mShop.android
+PROCESS-NAME,com.MobileTicket
 PROCESS-NAME,com.alibaba.wireless
 PROCESS-NAME,com.alicom.smartdail
 PROCESS-NAME,com.autonavi.minimap
@@ -19,7 +20,6 @@ PROCESS-NAME,com.icbc
 PROCESS-NAME,com.jd.jxj
 PROCESS-NAME,com.jingdong.app.mall
 PROCESS-NAME,com.mi.health
-PROCESS-NAME,com.MobileTicket
 PROCESS-NAME,com.mutangtech.qianji
 PROCESS-NAME,com.sinovatech.unicom.ui
 PROCESS-NAME,com.taobao.idlefish
