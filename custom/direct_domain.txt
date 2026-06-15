@@ -1,4 +1,4 @@
-# last updated: 2026-06-10
+# last updated: 2026-06-15
 
 +.assets.mozilla.net
 +.cmct.xyz
@@ -8,3 +8,4 @@
 +.springsunday.net
 +.totheglory.im
 appsec-mobile.meituan.com
+board.zash.run.place
