@@ -1,8 +1,9 @@
-# last updated: 2026-06-15
+# last updated: 2026-06-21
 
 +.assets.mozilla.net
 +.cmct.xyz
 +.hdchina.org
++.iataglobal.cloud
 +.open.cd
 +.push.services.mozilla.com
 +.springsunday.net
