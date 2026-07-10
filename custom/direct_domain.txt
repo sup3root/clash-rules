@@ -1,12 +1,13 @@
-# last updated: 2026-06-21
+# last updated: 2026-07-10
 
 +.assets.mozilla.net
 +.cmct.xyz
 +.hdchina.org
-+.iataglobal.cloud
 +.open.cd
 +.push.services.mozilla.com
 +.springsunday.net
 +.totheglory.im
 appsec-mobile.meituan.com
 board.zash.run.place
+cms.iataglobal.cloud
+emby.iataglobal.cloud
