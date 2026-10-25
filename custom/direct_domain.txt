@@ -10,5 +10,5 @@
 appsec-mobile.meituan.com
 board.zash.run.place
 cms.iataglobal.cloud
-emby.iataglobal.cloud
 download.lineageos.org
+emby.iataglobal.cloud
