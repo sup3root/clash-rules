@@ -1,5 +1,6 @@
 # last updated: 2026-07-10
 
+# download.lineageos.org
 +.assets.mozilla.net
 +.cmct.xyz
 +.hdchina.org
@@ -10,5 +11,4 @@
 appsec-mobile.meituan.com
 board.zash.run.place
 cms.iataglobal.cloud
-# download.lineageos.org
 emby.iataglobal.cloud
